@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Caculator/static/css/main.dbbe1bbd.css",
+    "main.js": "/React-Caculator/static/js/main.b8257e82.js",
+    "index.html": "/React-Caculator/index.html",
+    "main.dbbe1bbd.css.map": "/React-Caculator/static/css/main.dbbe1bbd.css.map",
+    "main.b8257e82.js.map": "/React-Caculator/static/js/main.b8257e82.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbbe1bbd.css",
+    "static/js/main.b8257e82.js"
+  ]
+}
